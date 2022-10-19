@@ -5,9 +5,9 @@
 #include <geometry_msgs/Twist.h>
 
 // defines pins numbers
-#define INC 2
+#define INC 3
 #define DIRECTION 5
-#define VH 3
+#define VH 2
 #define VSS 4
 
 const int stepPin = 6;
